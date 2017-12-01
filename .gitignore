@@ -4,3 +4,4 @@ Gemfile.lock
 Gemfile.local
 .bundle
 .idea
+.beaker
